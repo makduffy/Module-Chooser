@@ -1,0 +1,23 @@
+Name: kj lkjh
+PNo: 876
+Email: lkjh
+Date: 2022-08-12
+Course: Computer Science
+
+Selected Modules
+==========
+Module:[moduleCode=CTEC3451, moduleName=Development Project, moduleCredits=30, mandatory=true, delivery=YEAR_LONG]
+Module:[moduleCode=IMAT3104, moduleName=Database Management and Programming, moduleCredits=15, mandatory=false, delivery=TERM_2]
+Module:[moduleCode=IMAT3423, moduleName=Systems Building: Methods, moduleCredits=15, mandatory=true, delivery=TERM_1]
+Module:[moduleCode=IMAT3428, moduleName=Information Technology Services Practice, moduleCredits=15, mandatory=false, delivery=TERM_2]
+Module:[moduleCode=IMAT3611, moduleName=Computer Ethics and Privacy, moduleCredits=15, mandatory=false, delivery=TERM_1]
+Module:[moduleCode=IMAT3613, moduleName=Data Mining, moduleCredits=15, mandatory=false, delivery=TERM_1]
+Module:[moduleCode=IMAT3614, moduleName=Big Data and Business Models, moduleCredits=15, mandatory=false, delivery=TERM_2]
+
+Reserved Modules
+==========
+Module:[moduleCode=CTEC3110, moduleName=Secure Web Application Development, moduleCredits=15, mandatory=false, delivery=TERM_1]
+Module:[moduleCode=CTEC3911, moduleName=Mobile Application Development, moduleCredits=15, mandatory=false, delivery=TERM_1]
+Module:[moduleCode=IMAT3406, moduleName=Fuzzy Logic and Knowledge Based Systems, moduleCredits=15, mandatory=false, delivery=TERM_1]
+Module:[moduleCode=IMAT3423, moduleName=Systems Building: Methods, moduleCredits=15, mandatory=true, delivery=TERM_1]
+
