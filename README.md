@@ -8,3 +8,7 @@ The user has an set number of credits for each term they have to fufill in order
 After that, the user is able to see an overview of their data, with a button that exports the data onto a text file in the directory of the project. 
 
 ![plot](./MainMenu.PNG)
+
+![plot](./modules.PNG)
+
+![plot](./profile.PNG)
